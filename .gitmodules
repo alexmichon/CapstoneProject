@@ -1,3 +1,6 @@
 [submodule "CapstoneProjectAndroid"]
 	path = CapstoneProjectAndroid
 	url = https://github.com/alexmichon/CapstoneProjectAndroid.git
+[submodule "CapstoneProjectServer"]
+	path = CapstoneProjectServer
+	url = https://github.com/alexmichon/CapstoneProjectServer
