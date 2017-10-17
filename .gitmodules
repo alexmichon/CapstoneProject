@@ -1,0 +1,3 @@
+[submodule "CapstoneProjectAndroid"]
+	path = CapstoneProjectAndroid
+	url = https://github.com/alexmichon/CapstoneProjectAndroid.git
