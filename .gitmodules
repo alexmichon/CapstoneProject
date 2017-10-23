@@ -7,3 +7,6 @@
 [submodule "CapstoneProjectServer"]
 	path = CapstoneProjectServer
 	url = https://github.com/alexmichon/CapstoneProjectServer.git
+[submodule "CapstoneProjectMechanics"]
+	path = CapstoneProjectMechanics
+	url = https://github.com/alexmichon/CapstoneProjectMechanics.git
